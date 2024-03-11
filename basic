@@ -1,0 +1,23 @@
+ubuntu@ip-172-31-40-196:~$ touch file.yml
+ubuntu@ip-172-31-40-196:~$ touch file1.yml
+ubuntu@ip-172-31-40-196:~$ touch file2.yml
+ubuntu@ip-172-31-40-196:~$ touch file3.yml
+ubuntu@ip-172-31-40-196:~$ touch toll.yml
+ubuntu@ip-172-31-40-196:~$ touch screw.txt
+ubuntu@ip-172-31-40-196:~$ touch panel.txt
+ubuntu@ip-172-31-40-196:~$ touch touch panel.txt
+ubuntu@ip-172-31-40-196:~$ touch android.txt
+ubuntu@ip-172-31-40-196:~$ touch fence.txt
+ubuntu@ip-172-31-40-196:~$ touch fencing.txt
+ubuntu@ip-172-31-40-196:~$ touch yield.txt
+ubuntu@ip-172-31-40-196:~$ touch farm.txt
+ubuntu@ip-172-31-40-196:~$ touch motherboard.txt
+ubuntu@ip-172-31-40-196:~$ touch cpu.txt
+ubuntu@ip-172-31-40-196:~$ touch ups.txt
+ubuntu@ip-172-31-40-196:~$ touch card.txt
+ubuntu@ip-172-31-40-196:~$ touch graphics.txt
+ubuntu@ip-172-31-40-196:~$ touch usb.txt
+ubuntu@ip-172-31-40-196:~$ touch drive.txt
+ubuntu@ip-172-31-40-196:~$ ls
+android.txt  cpu.txt    farm.txt   fencing.txt  file1.yml  file3.yml     motherboard.txt  screw.txt  touch    usb.txt
+card.txt     drive.txt  fence.txt  file.yml     file2.yml  graphics.txt  panel.txt        toll.yml   ups.txt  yield.txt
